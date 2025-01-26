@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme{
+    --colorhero: #9AA6B2;
+}
